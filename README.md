@@ -1,6 +1,6 @@
 # Video-Games DataSet Machine Learning Project 
 
-#### The dataset named Video Game Sales with Ratings contains a collection of more than 16000 data which lists video games with sales above 100,000 copy.
+### The dataset named Video Game Sales with Ratings contains a collection of more than 16000 data which lists video games with sales above 100,000 copy.
 
 * **Name** : Name of the game
 * **Platform** : Console on which the game is running
@@ -18,3 +18,9 @@
 * **User_Count** : Number of Metacritic's subscribers who gave the user_score
 * **Developer** : Party responsible for creating the game
 * **Rating** : The ESRB ratings
+
+### Proposed Machine Learning Projects
+
+#### 1. Video Game Recommender System
+
+#### 2. Prediction of Sales (time series model)
