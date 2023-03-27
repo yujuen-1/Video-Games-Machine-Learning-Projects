@@ -26,7 +26,7 @@
 #### 1. Video Game Recommender System (Content-based Filtering)
 
 The system take user's search history and will feedback information below: 
-    a. Top 5 Best Selling Games of All Time (of the particular genre)
-    b. Top 10 Games that user probably like
+*     Top 5 Best Selling Games of All Time (of the particular genre)
+*     Top 10 Games that user probably like
 
 #### 2. Prediction of Sales (time series model)
