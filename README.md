@@ -1,5 +1,7 @@
 # Video-Games DataSet Machine Learning Project 
 
+![Video Games Illustration Photo](https://img.etimg.com/thumb/msid-79058608,width-1000,resizemode-4,imgsize-107012/the-journey-of-video-games.jpg)
+
 ### The dataset named Video Game Sales with Ratings contains a collection of more than 16000 data which lists video games with sales above 100,000 copy.
 
 * **Name** : Name of the game
